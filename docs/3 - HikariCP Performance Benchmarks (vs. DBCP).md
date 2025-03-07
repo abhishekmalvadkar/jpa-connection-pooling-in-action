@@ -198,7 +198,3 @@ public class PlainJDBCBenchmark {
 - Consider **multi-threaded performance testing**.
 
 ---
-
-## 8. Multi-Threaded Performance Tests
-Would you like to proceed with **multi-threaded testing** to simulate a real-world high-load scenario? 🚀
-
